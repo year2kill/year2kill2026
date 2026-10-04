@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>YEAR2KILL</title>
+
+<style>
+  /* --- RESET / BASE --- */
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  body {
+    background: url("Gore.png") no-repeat center center fixed;
+    background-size: cover;
+    overflow: hidden;
+  }
+
+  /* --- FLOATING LOGO --- */
+  @keyframes float {
+    0%   { transform: translateY(0px); }
+    50%  { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+  }
+
+  .logo {
+    width: 520px;
+    max-width: 85%;
+    height: auto;
+    animation: float 3s ease-in-out infinite;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+  }
+
+  /* --- MAIN LAYOUT --- */
+  .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 10vh;
+    text-align: center;
+  }
+
+
+  /* =====================================================
+     SIDEBAR
+     ===================================================== */
+
+  .sidebar {
+    position: fixed;
+
+    /* POSITION */
+    left: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    /* SIZE / SPACING */
+    width: 100px;
+    padding: 18px 10px;
+
+    /* TRANSPARENT PANEL */
+    background: rgba(0, 0, 0, 0.35);
+
+    /* GLASS EFFECT */
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+
+    /* SIMPLE BORDER */
+    border: 1px solid rgba(255, 255, 255, 0.20);
+
+    /* SLIGHTLY ROUNDED */
+    border-radius: 14px;
+
+    /* SHADOW */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+
+    z-index: 10;
+  }
+
+
+  /* --- ICON CONTAINER --- */
+  .nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+
+  /* --- ICONS --- */
+  .nav a {
+    display: block;
+  }
+
+  .nav a img {
+    width: 78px;
+    height: 78px;
+    object-fit: contain;
+
+    filter:
+      drop-shadow(0 2px 4px rgba(0,0,0,0.85))
+      drop-shadow(0 0 6px rgba(0,0,0,0.5));
+
+    transition:
+      transform 0.2s ease,
+      filter 0.2s ease;
+  }
+
+
+  /* --- HOVER --- */
+  .nav a img:hover {
+    transform: scale(1.10);
+
+    filter:
+      drop-shadow(0 3px 6px rgba(0,0,0,0.9))
+      drop-shadow(0 0 8px rgba(255,255,255,0.25));
+  }
+
+
+  /* --- MOBILE --- */
+  @media (max-width: 700px) {
+
+    .sidebar {
+      left: 12px;
+      width: 72px;
+      padding: 12px 6px;
+    }
+
+    .nav {
+      gap: 14px;
+    }
+
+    .nav a img {
+      width: 58px;
+      height: 58px;
+    }
+
+    .logo {
+      width: 430px;
+    }
+  }
+
+</style>
+</head>
+
+
+<body>
+
+  <!-- LEFT SIDEBAR -->
+  <div class="sidebar">
+
+    <div class="nav">
+
+      <a href="https://instagram.com/year2kill.chi">
+        <img src="instagram.png" alt="Instagram">
+      </a>
+
+      <a href="archive5.html">
+        <img src="y2k2.png" alt="YEAR2KILL Archive">
+      </a>
+
+      <a href="sn8k9.html">
+        <img src="sarafim.png" alt="SARAFIM">
+      </a>
+
+    </div>
+
+  </div>
+
+
+  <!-- MAIN PAGE -->
+  <div class="container">
+
+    <div>
+
+      <!-- YEAR2KILL LOGO -->
+      <a href="index3.html">
+        <img
+          src="y2k2026.png"
+          alt="YEAR2KILL"
+          class="logo"
+        >
+      </a>
+
+    </div>
+
+  </div>
+
+</body>
+</html>
