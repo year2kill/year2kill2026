@@ -1,7 +1,568 @@
 {
   "version": 2,
-  "updated": null,
-  "story_count": 0,
-  "stories": [],
+  "updated": "2026-10-29T05:08:45.505935+00:00",
+  "story_count": 80,
+  "stories": [
+    {
+      "headline": "THE 13 BEST TEENAGE RAPPERS RIGHT NOW (2026 RANKING)",
+      "url": "https://www.complex.com/music/a/dimassanfiorenzo/best-teenage-rappers-2026",
+      "source": "Complex Music",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.922677+00:00"
+    },
+    {
+      "headline": "CARL THOMAS AND CASE 'VERZUZ' EVENT: HERE'S EVERYTHING THAT WENT DOWN",
+      "url": "https://www.complex.com/music/a/backwoodsaltar/carl-thomas-case-verzuz-recap",
+      "source": "Complex Music",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.922484+00:00"
+    },
+    {
+      "headline": "THE 50 BEST R&B SONGS OF THE 2000S, RANKED (2000-09)",
+      "url": "https://www.complex.com/music/a/dimassanfiorenzo/2000s-rnb-best-songs",
+      "source": "Complex Music",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.922184+00:00"
+    },
+    {
+      "headline": "DIDDY'S EX YUNG MIAMI I WASN'T HIS MINI DRUG MULE!!!",
+      "url": "https://www.tmz.com/2026/10/23/yung-miami-denies-transporting-drugs-for-diddy/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.035667+00:00"
+    },
+    {
+      "headline": "THE TOP 30 CELEBRITY JEWELERS RIGHT NOW",
+      "url": "https://www.complex.com/style/a/mike-destefano/top-25-celebrity-jewelers-right-now-alex-moss-eliantte-gabby-elan",
+      "source": "Complex Style",
+      "category": "fashion",
+      "published": "2026-10-29T05:08:39.956906+00:00"
+    },
+    {
+      "headline": "DIDDY'S EX YUNG MIAMI DENIES TRANSPORTING DRUGS FOR HIM IN NEW INTERVIEW",
+      "url": "https://www.tmz.com/watch/yung-miami-denies-transporting-drugs-10-23-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.035815+00:00"
+    },
+    {
+      "headline": "THE 10 BEST CELEBRITY HALLOWEEN COSTUMES OF THE PAST 10 YEARS, RANKED",
+      "url": "https://www.complex.com/style/a/mike-destefano/best-celebrity-halloween-costumes",
+      "source": "Complex Style",
+      "category": "fashion",
+      "published": "2026-10-29T05:08:39.956670+00:00"
+    },
+    {
+      "headline": "BEYONCÉ & JAY-Z PARTY IN VEGAS ... AMID SUPER BOWL TALK",
+      "url": "https://www.tmz.com/2026/10/26/beyonce-jay-z-vegas-celebration/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.033595+00:00"
+    },
+    {
+      "headline": "THE 25 BEST DRESSED ATHLETES RIGHT NOW, RANKED",
+      "url": "https://www.complex.com/style/a/mike-destefano/best-dressed-athletes-right-now-ranked",
+      "source": "Complex Style",
+      "category": "fashion",
+      "published": "2026-10-29T05:08:39.956430+00:00"
+    },
+    {
+      "headline": "JAY-Z AND BEYONCE LAS VEGAS DATE NIGHT",
+      "url": "https://www.tmz.com/watch/jay-z-and-beyonce-las-vegas-date-night-10-26-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.033732+00:00"
+    },
+    {
+      "headline": "'ELONVILLE': US RESIDENTS SAY MUSK'S XAI OFFERED TO BUY HOMES IF THEY DON'T SUE OVER DATACENTER NOISE",
+      "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T15:32:41+00:00"
+    },
+    {
+      "headline": "DABABY SETTLES LEGAL WAR WITH EX DANILEIGH OVER DAUGHTER",
+      "url": "https://www.tmz.com/2026/10/23/dababy-danileigh-settle-child-support-custody-battle/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.035409+00:00"
+    },
+    {
+      "headline": "HAILEY! KENDALL! BELLA! INSIDE ACTIVEWEAR'S MEGA-INFLUENCER WARS",
+      "url": "https://www.vogue.com/article/hailey-kendall-bella-inside-activewears-mega-influencer-wars",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-29T04:30:00+00:00"
+    },
+    {
+      "headline": "BACKSTREET BOYS' AJ MCLEAN HOW WE MADE DRAKE'S BIRTHDAY WISH COME TRUE",
+      "url": "https://www.tmz.com/2026/10/26/backstreet-boys-aj-mclean-tells-how-drakes-birthday-wish-came-true/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.033275+00:00"
+    },
+    {
+      "headline": "'LIGHT THERAPY WITHOUT REMORTGAGING THE HOUSE': THE BEST LED FACE MASKS – TESTED",
+      "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T15:00:52+00:00"
+    },
+    {
+      "headline": "ELLIOTT ELIANTTE CRAFTS CUSTOM DIAMOND-ENCRUSTED \"TINA SNOW\" CHAIN FOR MEGAN THEE STALLION",
+      "url": "https://hypebeast.com/2026/10/elliott-eliantte-crafts-custom-diamond-encrusted-tina-snow-chain-for-megan-thee-stallion",
+      "source": "Hypebeast Fashion",
+      "category": "fashion",
+      "published": "2026-10-29T04:22:12+00:00"
+    },
+    {
+      "headline": "GALLERY LAUNCH GALLERY DRAKE -- THROUGH THE YEARS LAUNCH GALLERY GALLERY GETTY",
+      "url": "https://www.tmz.com/photos/2014/10/27/drake-through-the-years/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.034850+00:00"
+    },
+    {
+      "headline": "LONER AND VALLAD RELEASE SECOND COLLABORATIVE COLLECTION",
+      "url": "https://hypebeast.com/2026/10/loner-vallad-2nd-collabo-collection-release-info",
+      "source": "Hypebeast Fashion",
+      "category": "fashion",
+      "published": "2026-10-29T03:58:06+00:00"
+    },
+    {
+      "headline": "DRAKE CELEBRATES 40TH BIRTHDAY! SEE HIS SHREDDED SHOTS!",
+      "url": "https://www.tmz.com/2026/10/24/drake-hot-photos-to-celebrate-his-birthday/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.035000+00:00"
+    },
+    {
+      "headline": "SOCIAL MEDIA IS FULL OF WEIRD VIDEO GAME MASHUPS. WHERE ARE THEY ALL COMING FROM?",
+      "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T15:00:05+00:00"
+    },
+    {
+      "headline": "CHICAGO DESERVES A FESTIVAL SPACE FOR THE PEOPLE",
+      "url": "https://chicagoreader.com/music/gossip-wolf/ballot-measure-question-festival-grounds-event-space-outdoor/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T16:38:02+00:00"
+    },
+    {
+      "headline": "DRAKE'S 40TH BIRTHDAY RAPPER FREAKS OUT OVER BACKSTREET BOYS, SINGS 'I WANT IT THAT WAY'",
+      "url": "https://www.tmz.com/2026/10/24/drake-birthday-party-backstreet-boys-performance/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.034315+00:00"
+    },
+    {
+      "headline": "YOHJI YAMAMOTO TO RECEIVE OUTSTANDING ACHIEVEMENT AWARD AT THE FASHION AWARDS 2026",
+      "url": "https://hypebeast.com/2026/10/yohji-yamamoto-receives-outstanding-achievement-award-british-fashion-council-awards-2026-announcement",
+      "source": "Hypebeast Fashion",
+      "category": "fashion",
+      "published": "2026-10-29T03:33:06+00:00"
+    },
+    {
+      "headline": "CHICAGO FREIGHT TRAIN BURGLARY: ABOUT 20 PEOPLE BELIEVED INVOLVED, OFFICIALS SAY",
+      "url": "https://www.fox32chicago.com/news/chicago-freight-train-burglary-about-20-people-believed-involved-officials-say",
+      "source": "FOX 32 Chicago",
+      "category": "chicago_crime",
+      "published": "2026-10-29T05:08:41.882334+00:00"
+    },
+    {
+      "headline": "JAY-Z ON SUPER BOWL HALFTIME SHOW I DON'T FEEL ANY PRESSURE ... JUST ANOTHER GIG TO ME!!!",
+      "url": "https://www.tmz.com/2026/10/27/jay-z-talks-super-bowl-halftime-show/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.031413+00:00"
+    },
+    {
+      "headline": "CASTLE WALLS REVIEW – PRIME'S FIRST FULLY AI-GENERATED SHOW IS HERE, AND IT'S A VASELINE-SMEARED MESS",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/29/castle-walls-review-prime-first-fully-ai-generated-tv-show",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T14:00:05+00:00"
+    },
+    {
+      "headline": "I WISH DAKOTA JOHNSON AND MACHINE GUN KELLY THE BEST, WHATEVER THEY'RE UP TO",
+      "url": "https://www.vogue.com/article/i-want-what-i-think-they-seem-to-have-dakota-johnson-and-machine-gun-kelly",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "headline": "DRAKE GOES WILD OVER BACKSTREET BOYS AT BIRTHDAY BASH, JOINS THEM ONSTAGE",
+      "url": "https://www.tmz.com/watch/drake-backstreet-boys-perform-at-drake-40th-birthday-10-24-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.034441+00:00"
+    },
+    {
+      "headline": "ALEXANDER WANG RESORT 2027",
+      "url": "https://www.vogue.com/fashion-shows/resort-2027/alexander-wang",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-29T05:06:42+00:00"
+    },
+    {
+      "headline": "DRAKE 40TH B-BDAY BASH BACKSTREET BOYS PERFORM, GUESTS SCORE LUX GIFTS, CASH!!!",
+      "url": "https://www.tmz.com/2026/10/23/drake-nyc-40th-birthday-handbags-backstreet-boys/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.034605+00:00"
+    },
+    {
+      "headline": "'THERE IS NO INEVITABLE DYSTOPIA': JEANETTE WINTERSON ON AI AND THE FUTURE OF HUMANITY",
+      "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T10:00:05+00:00"
+    },
+    {
+      "headline": "NIPSEY HUSSLE'S BROTHER BLACC SAM JAY Z'S NIP TRIBUTE WAS 'MONUMENTAL'",
+      "url": "https://www.tmz.com/2026/10/27/blacc-sam-talks-jay-z-tribute-to-nipsey-hussle/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.031736+00:00"
+    },
+    {
+      "headline": "DIGESTIVE WALKING HELPS WITH BLOATING AND BLOOD SUGAR",
+      "url": "https://www.vogue.com/article/digestive-walking",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T23:45:13+00:00"
+    },
+    {
+      "headline": "A BLACK FAMILY IN MOURNING IMPLODES IN HAYWARD",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/hayward-gift-theatre/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T13:52:58+00:00"
+    },
+    {
+      "headline": "NICKI MINAJ'S EX-PAL RAH ALI I'M NOT GONNA ALLOW RAPPER TO DESTROY ME!!!",
+      "url": "https://www.tmz.com/2026/10/28/rah-ali-nicki-minaj-ended-friendship/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.030735+00:00"
+    },
+    {
+      "headline": "'EMOTIONAL INTIMACY' FROM AI CHATBOTS WOULD BE BANNED UNDER AUSTRALIA'S DIGITAL DUTY OF CARE LAWS",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+      "source": "The Guardian Technology",
+      "category": "technology",
+      "published": "2026-10-28T05:31:55+00:00"
+    },
+    {
+      "headline": "LET'S REMEMBER DOLORES HUERTA FOR HER LEGENDARY ORGANIZING CAREER, NOT JUST HER TRAUMA",
+      "url": "https://www.vogue.com/article/dolores-huerta-remembrance",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T22:00:00+00:00"
+    },
+    {
+      "headline": "JAY-Z SAYS HE FEELS NO PRESSURE PERFORMING AT SUPER BOWL HALFTIME SHOW",
+      "url": "https://www.tmz.com/watch/jay-z-talks-super-bowl-halftime-show-preparation-10-27-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.031550+00:00"
+    },
+    {
+      "headline": "A DERMATOLOGIST'S GUIDE TO SUNSCREEN IN WINTER",
+      "url": "https://www.vogue.com/article/best-sunscreen-in-winter",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T21:33:33+00:00"
+    },
+    {
+      "headline": "JAY-Z CONCERT DESTINY'S CHILD REUNITES TO CHEER ON BEYONCÉ'S HUSBAND",
+      "url": "https://www.tmz.com/2026/10/24/destinys-child-rihanna-attend-jay-z-show-blue-performs/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.034007+00:00"
+    },
+    {
+      "headline": "SWITCHABLE CHLORINE ATOM TRANSFER RADICAL REACTIONS",
+      "url": "https://www.nature.com/articles/s41586-026-11348-z",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "50 CENT ASKS JUDGE TO STOP RICK ROSS' EX FROM MOCKING HIS SON!!!",
+      "url": "https://www.tmz.com/2026/10/26/50-cent-wants-rick-ross-ex-tia-kemp-to-stop-posting-about-his-son/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.032958+00:00"
+    },
+    {
+      "headline": "THE BEST WEEKENDER BAGS FOR A WELL-ORGANIZED GETAWAY",
+      "url": "https://www.vogue.com/slideshow/best-weekender-bag",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T21:14:56+00:00"
+    },
+    {
+      "headline": "BLACC SAM TALKS JAY Z HONORING BROTHER NIPSEY HUSSLE AT SOFI SHOW",
+      "url": "https://www.tmz.com/watch/blacc-sam-talks-jay-z-honoring-nipsey-hussle-at-sofi-show-10-26-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.031882+00:00"
+    },
+    {
+      "headline": "BACK-TO-MONOMER DEPOLYMERIZATION OF SILICONES BY DEOXYGENATIVE CHLORINATION",
+      "url": "https://www.nature.com/articles/s41586-026-11335-4",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "FIRST CALL! THE BEST EARLY BLACK FRIDAY BEAUTY DEALS HAVE ALREADY STARTED",
+      "url": "https://www.vogue.com/article/best-early-black-friday-beauty-deals-10-28-2026",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T21:12:12+00:00"
+    },
+    {
+      "headline": "NICKI MINAJ'S FORMER FRIEND RAH ALI CLAIMS THE RAPPER IS TRYING TO RUIN HER LIFE",
+      "url": "https://www.tmz.com/watch/nicki-minaj-former-friend-rah-ali-speaks-out-against-her-10-28-2026/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.030928+00:00"
+    },
+    {
+      "headline": "ALWAYS, SOMETIMES, MAYBE GOES BOTH LIGHT AND DEEP",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/always-sometimes-maybe-redtwist-theatre-michele-stine/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T13:38:29+00:00"
+    },
+    {
+      "headline": "MEET 'WHEAT MEAT,' THE BEST PLANT-BASED PROTEIN",
+      "url": "https://www.vogue.com/article/seitan-plant-based-protein-benefits",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T20:30:00+00:00"
+    },
+    {
+      "headline": "DRAKE'S TEAM DENIES STEALING 'JANICE STFU' CHORUS, CALLS LAWSUIT A MONEY GRAB",
+      "url": "https://www.tmz.com/2026/10/16/drake-responds-to-lawsuit-over-janice-stfu/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.035081+00:00"
+    },
+    {
+      "headline": "WHY DID ANCIENT HUMANS AVOID THIS LUSH PARADISE",
+      "url": "https://www.nature.com/articles/d41586-026-03486-1",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "50 CENT JUDGE ORDERS RICK ROSS' EX TO STAY AWAY FROM HIS SON!!!",
+      "url": "https://www.tmz.com/2026/10/28/50-cent-temporary-restraining-order-against-tia-kemp/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.031091+00:00"
+    },
+    {
+      "headline": "THE BEST HALLOWEEN COSTUME IS AN IYKYK ARCHIVAL RUNWAY LOOK",
+      "url": "https://www.vogue.com/article/the-best-halloween-costume-is-an-iykyk-archival-runway-look",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T19:39:08+00:00"
+    },
+    {
+      "headline": "GALLERY LAUNCH GALLERY TYGA PERFORMANCE PHOTOS LAUNCH GALLERY GALLERY GETTY",
+      "url": "https://www.tmz.com/photos/2017/03/07/tyga-performance-photos/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.032318+00:00"
+    },
+    {
+      "headline": "ACCOUNTING OF AFRICA'S WATER REVEALS A MANAGEMENT GAP",
+      "url": "https://www.nature.com/articles/d41586-026-03260-3",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "ELLE FANNING IS OFFICIALLY IN HER EFFIE TRINKET ERA",
+      "url": "https://www.vogue.com/article/elle-fanning-is-officially-in-her-effie-trinket-era-2026-10-28",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T19:09:04+00:00"
+    },
+    {
+      "headline": "NICKI MINAJ EX-ASSISTANT DEMANDS PRIVATE TEXTS IN BATTERY CASE ... RAPPER FIGHTS BACK!!!",
+      "url": "https://www.tmz.com/2026/10/26/nicki-minaj-ex-assistant-wants-her-texts-in-court-battle/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.032689+00:00"
+    },
+    {
+      "headline": "RALPH LAUREN NAMES RYAN LALLY CHIEF BRAND COMMUNICATIONS OFFICER",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/ralph-lauren-ryan-lally-chief-brand-communications-officer-1239390017/",
+      "source": "WWD Fashion",
+      "category": "fashion",
+      "published": "2026-10-28T19:00:00+00:00"
+    },
+    {
+      "headline": "TYGA SUED FOR BAILING ON BEIJING PERFORMANCE … TO THE TUNE OF $135K!!!",
+      "url": "https://www.tmz.com/2026/10/27/tyga-sued-for-fraud-by-management-company/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.032128+00:00"
+    },
+    {
+      "headline": "THE BRAIN LIQUIDATES BILLIONS OF MUTANT NEURONS AROUND THE TIME WE'RE BORN",
+      "url": "https://www.nature.com/articles/d41586-026-03444-x",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "CARMELA FULL OF WISHES RETURNS TO CHICAGO CHILDREN'S THEATRE",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/carmela-full-of-wishes-chicago-childrens-theatre/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T13:25:02+00:00"
+    },
+    {
+      "headline": "BRYSON TILLER & KRISTY SARAH SEEN TOGETHER BACKSTAGE IN SOUTH AFRICA ... MONTHS BEFORE DATING BUZZ",
+      "url": "https://www.tmz.com/2026/10/26/bryson-tiller-and-kristy-sarah-seen-together-in-south-africa/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.032432+00:00"
+    },
+    {
+      "headline": "LOW-RISES, HIGH HOPES: CAN TRUE RELIGION AND BABY PHAT STAGE A NOSTALGIA-FUELED REVIVAL?",
+      "url": "https://www.vogue.com/article/true-religion-baby-phat-collaboration",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T18:37:28+00:00"
+    },
+    {
+      "headline": "1 DEAD, 2 WOUNDED IN CHICAGO GAS STATION SHOOTING",
+      "url": "https://www.fox32chicago.com/news/1-dead-2-wounded-chicago-gas-station-shooting",
+      "source": "FOX 32 Chicago",
+      "category": "chicago_crime",
+      "published": "2026-10-29T05:08:41.882009+00:00"
+    },
+    {
+      "headline": "BOOSIE BADAZZ'S SON IVY RAY HATCH BUSTED FOR DRUG AND GUN POSSESSION ... AGGRAVATED BATTERY, ARMED ROBBERY",
+      "url": "https://www.tmz.com/2026/10/23/boosie-badazz-son-ivy-ray-hatch-arrested/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.036027+00:00"
+    },
+    {
+      "headline": "TETHERED TO STONE: HOW ROCK AND WATER AVAILABILITY SHAPED EARLY DESERT OCCUPATION",
+      "url": "https://www.nature.com/articles/d41586-026-03263-0",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "THE BEST CELEBRITY HALLOWEEN COSTUMES OF ALL TIME: PARIS HILTON, KIM KARDASHIAN & MORE",
+      "url": "https://www.vogue.com/slideshow/the-best-celebrity-halloween-costumes",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T18:36:56+00:00"
+    },
+    {
+      "headline": "JAY-Z AND BEYONCE CELEBRATE",
+      "url": "https://www.tmz.com/watch/2026-10-26-102626-jayz-beyonce-sub-2359153-178/",
+      "source": "TMZ Hip Hop",
+      "category": "music",
+      "published": "2026-10-29T05:08:37.033863+00:00"
+    },
+    {
+      "headline": "10 BEST HAIR MASKS FOR FRIZZ I'VE EVER TRIED",
+      "url": "https://www.vogue.com/article/hair-mask-for-frizz",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T18:28:00+00:00"
+    },
+    {
+      "headline": "WE CELEBRATED 20 YEARS OF AMY WINEHOUSE AND BACK TO BLACK",
+      "url": "https://www.thefader.com/2026/10/28/amy-winehouse-back-to-black-20-anniversary-event-photo",
+      "source": "The FADER",
+      "category": "music",
+      "published": "2026-10-28T21:07:34+00:00"
+    },
+    {
+      "headline": "WHAT STUDENTS THINK ABOUT MY TEACHING DOESN'T MATTER. AM I WRONG?",
+      "url": "https://www.nature.com/articles/d41586-026-02202-3",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "J. COLE CONFIRMS HE'S NOT RETIRING, REFLECTS ON JAY-Z PRESSURE",
+      "url": "https://www.xxlmag.com/j-cole-retirement-jay-z-pressure-gq-interview/",
+      "source": "XXL",
+      "category": "music",
+      "published": "2026-10-28T19:46:32+00:00"
+    },
+    {
+      "headline": "ANTHONY VACCARELLO BEFORE SAINT LAURENT: VOTE ON YOUR FAVORITE LOOK",
+      "url": "https://www.vogue.com/slideshow/anthony-vaccarello-before-saint-laurent-vote-on-your-favorite-look",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T18:11:24+00:00"
+    },
+    {
+      "headline": "KING LEAR GETS A GENDER-BENDING PRODUCTION FROM BABES WITH BLADES",
+      "url": "https://chicagoreader.com/performing-arts/theater/theater-review/king-lear-babes-with-blades/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T13:08:04+00:00"
+    },
+    {
+      "headline": "HOW PERSONALIZATION AND PSYCHEDELICS ARE REVITALIZING PSYCHIATRY",
+      "url": "https://www.nature.com/articles/d41586-026-03402-7",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "BEST EARLY BLACK FRIDAY DEALS VOGUE EDITORS ARE SHOPPING IN 2026",
+      "url": "https://www.vogue.com/article/best-early-black-friday-deals-10-28-2026",
+      "source": "Vogue",
+      "category": "fashion",
+      "published": "2026-10-28T17:49:15+00:00"
+    },
+    {
+      "headline": "HOUSE OF ERRORS INTRODUCES WINTER-READY TOUT SCHUSS COLLECTION",
+      "url": "https://hypebeast.com/2026/10/house-of-errors-tout-schuss-collection-release-info",
+      "source": "Hypebeast Fashion",
+      "category": "fashion",
+      "published": "2026-10-28T17:00:18+00:00"
+    },
+    {
+      "headline": "LACTATE TAKES A SHORTCUT INTO MITOCHONDRIA TO POWER THE HEART",
+      "url": "https://www.nature.com/articles/d41586-026-03261-2",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "CLUES ABOUT COMPLEX LIFE COME FROM FRESHLY CULTIVATED ARCHAEA",
+      "url": "https://www.nature.com/articles/d41586-026-03294-7",
+      "source": "Nature",
+      "category": "technology",
+      "published": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "headline": "DETROIT POSTPUNKS PROTOMARTYR CONTEMPLATE AMERICAN DECAY ON HOTEL USONA",
+      "url": "https://chicagoreader.com/music/concert-preview/protomartyr-metro/",
+      "source": "Chicago Reader",
+      "category": "chicago_culture",
+      "published": "2026-10-28T13:00:00+00:00"
+    }
+  ],
   "source_errors": []
 }
