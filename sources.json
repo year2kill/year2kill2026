@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "story_limit": 80,
+  "minimum_publish_count": 8,
+  "weights": {
+    "music": 40,
+    "fashion": 30,
+    "technology": 20,
+    "chicago_culture": 7,
+    "chicago_crime": 3
+  },
+  "categories": {
+    "music": {"max_age_hours": 72, "pool_limit": 40},
+    "fashion": {"max_age_hours": 72, "pool_limit": 32},
+    "technology": {"max_age_hours": 120, "pool_limit": 24},
+    "chicago_culture": {"max_age_hours": 96, "pool_limit": 10},
+    "chicago_crime": {"max_age_hours": 30, "pool_limit": 4}
+  },
+  "sources": [
+    {"name":"TMZ Hip Hop","category":"music","type":"html","url":"https://www.tmz.com/categories/hip-hop/","selectors":["article a","h2 a","h3 a"],"enabled":true},
+    {"name":"Complex Music","category":"music","type":"html","url":"https://www.complex.com/music/","selectors":["article a","h2 a","h3 a"],"enabled":true},
+    {"name":"The FADER","category":"music","type":"rss","url":"https://www.thefader.com/feed","enabled":true},
+    {"name":"XXL","category":"music","type":"rss","url":"https://www.xxlmag.com/feed/","enabled":true},
+    {"name":"Vogue","category":"fashion","type":"rss","url":"https://www.vogue.com/feed/rss","enabled":true},
+    {"name":"WWD Fashion","category":"fashion","type":"rss","url":"https://wwd.com/fashion-news/feed/","enabled":true},
+    {"name":"Hypebeast Fashion","category":"fashion","type":"rss","url":"https://hypebeast.com/fashion/feed","enabled":true},
+    {"name":"Complex Style","category":"fashion","type":"html","url":"https://www.complex.com/style/","selectors":["article a","h2 a","h3 a"],"enabled":true},
+    {"name":"Nature","category":"technology","type":"rss","url":"https://feeds.nature.com/nature/rss/current","enabled":true},
+    {"name":"The Guardian Technology","category":"technology","type":"rss","url":"https://www.theguardian.com/technology/rss","enabled":true},
+    {"name":"Harvard Gazette Science & Technology","category":"technology","type":"rss","url":"https://news.harvard.edu/gazette/section/science-technology/feed/","enabled":true},
+    {"name":"Chicago Reader","category":"chicago_culture","type":"rss","url":"https://chicagoreader.com/feed/","enabled":true},
+    {"name":"FOX 32 Chicago","category":"chicago_crime","type":"html","url":"https://www.fox32chicago.com/news","selectors":["article a","h2 a","h3 a"],"require_chicago":true,"require_crime":true,"enabled":true},
+    {"name":"ABC7 Chicago","category":"chicago_crime","type":"html","url":"https://abc7chicago.com/","selectors":["article a","h2 a","h3 a"],"require_chicago":true,"require_crime":true,"enabled":true}
+  ]
+}
