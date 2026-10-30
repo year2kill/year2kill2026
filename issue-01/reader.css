@@ -1,0 +1,24 @@
+:root{--page-ratio:8.5/11;--fade:190ms cubic-bezier(.2,.7,.2,1)}
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;height:100%;background:transparent}
+body{overflow:hidden;font-family:Arial,Helvetica,sans-serif}
+.reader{width:100%;height:100vh;min-height:420px;display:grid;grid-template-rows:minmax(0,1fr) 46px;gap:8px;padding:8px}
+.stage{min-height:0;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+.book-shell{position:relative;display:flex;align-items:center;justify-content:center;max-width:100%;max-height:100%;transition:opacity var(--fade),transform var(--fade);will-change:opacity,transform}
+.book-shell.is-changing{opacity:0;transform:translateX(var(--shift,0)) scale(.997)}
+.single-view{height:min(calc(100vh - 70px),calc((100vw - 16px)*11/8.5));aspect-ratio:var(--page-ratio);max-width:calc(100vw - 16px);background:#fff;filter:drop-shadow(0 18px 30px rgba(0,0,0,.24))}
+.single-view img{width:100%;height:100%;display:block;object-fit:fill;background:#fff}
+.spread-view{height:min(calc(100vh - 70px),calc((100vw - 16px)*11/17));aspect-ratio:17/11;max-width:calc(100vw - 16px);display:flex;filter:drop-shadow(0 18px 30px rgba(0,0,0,.24));position:relative;background:#fff}
+.spread-view[hidden]{display:none}
+.spread-view img{width:50%;height:100%;display:block;object-fit:fill;background:#fff}
+.spread-view::after{content:"";position:absolute;left:50%;top:0;bottom:0;width:2px;transform:translateX(-1px);pointer-events:none;background:linear-gradient(90deg,rgba(0,0,0,.16),rgba(255,255,255,.25),rgba(0,0,0,.14));opacity:.55}
+.controls{height:46px;display:flex;justify-content:center;align-items:center}
+.controls button,#counter{font:700 10px/1 Arial,Helvetica,sans-serif;letter-spacing:1.35px}
+.controls button{border:1px solid rgba(255,255,255,.28);background:rgba(0,0,0,.34);color:#fff;padding:9px 14px;cursor:pointer;transition:background .15s ease,opacity .15s ease}
+.controls button:hover{background:rgba(0,0,0,.55)}
+.controls button:disabled{opacity:.34;cursor:default}
+#readingControls{display:flex;align-items:center;gap:10px}
+#readingControls[hidden],#openButton[hidden]{display:none}
+#counter{color:#999;min-width:92px;text-align:center}
+@media(max-width:760px){.reader{grid-template-rows:minmax(0,1fr) 42px}.spread-view{display:none!important}.single-view{display:block!important}.controls button{padding:8px 10px}#fullButton{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.book-shell{transition:none}}
