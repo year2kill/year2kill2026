@@ -14,7 +14,6 @@
 <body>
 <div class="y2k-wire" aria-label="Y2K Wire live news ticker"><div class="wire-track" id="wireTrack"></div></div>
 <div class="logo-wrap"><a href="index.html"><img class="logo" src="y2k2026.png" alt="YEAR2KILL"></a></div>
-<div class="sidebar"><div class="nav"><a href="https://instagram.com/year2kill.chi" target="_blank" rel="noopener noreferrer"><img src="instagram.png" alt="Instagram"></a><a href="index.html"><img src="Y2K2.png" alt="YEAR2KILL"></a><a href="sarafim.html"><img src="Sarafim.png" alt="Sarafim"></a></div></div>
 <main class="sarafim-stage">
   <section class="sarafim-content" aria-label="Sarafim v0.0.1">
     <img class="sarafim-art" src="angel2.png" alt="Sarafim v0.0.1 official angel icon">
@@ -28,6 +27,7 @@
     </div>
   </section>
 </main>
+<div class="sidebar"><div class="nav"><a href="https://instagram.com/year2kill.chi" target="_blank" rel="noopener noreferrer"><img src="instagram.png" alt="Instagram"></a><a href="index.html"><img src="Y2K2.png" alt="YEAR2KILL"></a><a href="sarafim.html"><img src="Sarafim.png" alt="Sarafim"></a></div></div>
 <div class="preview-label">SARAFIM PAGE PREVIEW</div>
 <script>
 const track=document.getElementById('wireTrack');const OFFLINE={stories:[{headline:'Y2K WIRE // LIVE FEED TEMPORARILY UNAVAILABLE',url:'#'}]};function localDateTime(){const n=new Date(),d=new Intl.DateTimeFormat(undefined,{month:'2-digit',day:'2-digit',year:'numeric'}).format(n),t=new Intl.DateTimeFormat(undefined,{hour:'numeric',minute:'2-digit'}).format(n);return `${d} ${t}`}function buildCopy(stories){const c=document.createElement('div');c.className='wire-copy';const b=document.createElement('span');b.className='wire-brand';b.textContent='Y2K WIRE >>>';c.appendChild(b);const tm=document.createElement('span');tm.className='wire-time live-time';tm.textContent=localDateTime();c.appendChild(tm);for(const s of stories){const sep=document.createElement('span');sep.className='wire-separator';sep.textContent='--';c.appendChild(sep);const a=document.createElement('a');a.className='wire-story';a.textContent=s.headline;a.href=s.url||'#';if(s.url&&s.url!=='#'){a.target='_blank';a.rel='noopener noreferrer'}c.appendChild(a)}return c}function updateClock(){document.querySelectorAll('.live-time').forEach(e=>e.textContent=localDateTime())}function adaptSpeed(){requestAnimationFrame(()=>{const c=track.querySelector('.wire-copy');if(c)track.style.animationDuration=`${Math.max(40,c.scrollWidth/(innerWidth<=700?76:92))}s`})}function renderWire(d){const s=(d.stories||[]).filter(x=>x&&x.headline).slice(0,100);if(!s.length)s.push(...OFFLINE.stories);track.replaceChildren(buildCopy(s),buildCopy(s));updateClock();adaptSpeed()}async function loadWire(){try{const r=await fetch(`wire.json?v=${Date.now()}`,{cache:'no-store'});renderWire(r.ok?await r.json():OFFLINE)}catch{renderWire(OFFLINE)}}loadWire();setInterval(updateClock,30000);window.addEventListener('resize',adaptSpeed);
