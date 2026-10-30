@@ -14,12 +14,8 @@
 </head>
 <body>
 <div class="y2k-wire" aria-label="Y2K Wire live news ticker"><div class="wire-track" id="wireTrack"></div></div>
-<<<<<<< HEAD
-<div class="sidebar"><div class="nav"><a href="https://instagram.com/year2kill.chi" target="_blank" rel="noopener noreferrer"><img src="instagram.png" alt="Instagram"></a><a href="index.html"><img src="Y2K2.png" alt="YEAR2KILL Archive"></a><a href="sarafim.html"><img src="Sarafim.png" alt="SARAFIM"></a></div></div>
-<div class="container"><div><a href="index.html"><img src="y2k2026.png" alt="YEAR2KILL" class="logo"></a></div></div>
-=======
 <main class="home">
-  <div class="logo-wrap"><a href="index3.html"><img class="logo" src="y2k2026.png" alt="YEAR2KILL"></a></div>
+  <div class="logo-wrap"><a href="index.html"><img class="logo" src="y2k2026.png" alt="YEAR2KILL"></a></div>
   <section class="issue-shelf" aria-label="YEAR2KILL issues">
     <button class="issue-card" data-issue="1"><img src="issue1-cover-web.jpg" alt="YEAR2KILL Issue 1"><span class="issue-title">VIEW ISSUE 1</span><span class="issue-year">(2024)</span></button>
     <button class="issue-card" data-issue="2"><img src="issue2-cover-web.jpg" alt="YEAR2KILL Issue 2"><span class="issue-title">VIEW ISSUE 2</span><span class="issue-year">(2026)</span></button>
@@ -38,7 +34,6 @@
     <div class="reader-controls"><button id="prevBtn" aria-label="Previous page">←</button><span class="counter" id="counter"></span><button id="nextBtn" aria-label="Next page">→</button><button id="fullBtn">FULLSCREEN</button></div>
   </div>
 </div>
->>>>>>> 303cad9c5181c5724466e2f9a6635ed297bfa72e
 <script>
 const track=document.getElementById('wireTrack');
 const OFFLINE={stories:[{headline:'Y2K WIRE // LIVE FEED TEMPORARILY UNAVAILABLE',url:'#',source:'YEAR2KILL'}]};
@@ -50,7 +45,7 @@ function renderWire(d){const s=(d.stories||[]).filter(x=>x&&x.headline).slice(0,
 async function loadWire(){try{const r=await fetch(`wire.json?v=${Date.now()}`,{cache:'no-store'});renderWire(r.ok?await r.json():OFFLINE)}catch{renderWire(OFFLINE)}}
 loadWire();setInterval(updateClock,30000);window.addEventListener('resize',adaptSpeed);
 const ISSUES={1:{total:24,ext:'webp',folder:'issue-01/pages'},2:{total:60,ext:'webp',folder:'issue-02/pages'}};
-const modal=document.getElementById('readerModal'),pages=document.getElementById('pages'),left=document.getElementById('leftPage'),right=document.getElementById('rightPage'),leftWrap=document.getElementById('leftWrap'),rightWrap=document.getElementById('rightWrap'),counter=document.getElementById('counter'),prevBtn=document.getElementById('prevBtn'),nextBtn=document.getElementById('nextBtn');
+const modal=document.getElementById('readerModal'),pages=document.getElementById('pages'),left=document.getElementById('leftPage'),right=document.getElementById('rightPage'),leftWrap=document.getElementById('leftWrap'),rightWrap=document.getElementById('rightPage'),counter=document.getElementById('counter'),prevBtn=document.getElementById('prevBtn'),nextBtn=document.getElementById('nextBtn');
 let activeIssue=1,pos=1,busy=false,downX=null;
 const isMobile=()=>matchMedia('(max-width:700px)').matches;
 function srcFor(n){const m=ISSUES[activeIssue];return `${m.folder}/page_${String(n).padStart(2,'0')}.${m.ext}`}
