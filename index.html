@@ -45,7 +45,7 @@ function renderWire(d){const s=(d.stories||[]).filter(x=>x&&x.headline).slice(0,
 async function loadWire(){try{const r=await fetch(`wire.json?v=${Date.now()}`,{cache:'no-store'});renderWire(r.ok?await r.json():OFFLINE)}catch{renderWire(OFFLINE)}}
 loadWire();setInterval(updateClock,30000);window.addEventListener('resize',adaptSpeed);
 const ISSUES={1:{total:24,ext:'webp',folder:'issue-01/pages'},2:{total:60,ext:'webp',folder:'issue-02/pages'}};
-const modal=document.getElementById('readerModal'),pages=document.getElementById('pages'),left=document.getElementById('leftPage'),right=document.getElementById('rightPage'),leftWrap=document.getElementById('leftWrap'),rightWrap=document.getElementById('rightPage'),counter=document.getElementById('counter'),prevBtn=document.getElementById('prevBtn'),nextBtn=document.getElementById('nextBtn');
+const modal=document.getElementById('readerModal'),pages=document.getElementById('pages'),left=document.getElementById('leftPage'),right=document.getElementById('rightPage'),leftWrap=document.getElementById('leftWrap'),rightWrap=document.getElementById('rightWrap'),counter=document.getElementById('counter'),prevBtn=document.getElementById('prevBtn'),nextBtn=document.getElementById('nextBtn');
 let activeIssue=1,pos=1,busy=false,downX=null;
 const isMobile=()=>matchMedia('(max-width:700px)').matches;
 function srcFor(n){const m=ISSUES[activeIssue];return `${m.folder}/page_${String(n).padStart(2,'0')}.${m.ext}`}
